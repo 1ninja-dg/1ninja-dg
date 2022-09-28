@@ -1,6 +1,6 @@
 - 👋 Hi, I’m --> Dhruv Goyal.
 - 👀 I’m interested in --> Competitive programming, Android Dev and Game Dev.
-- 🌱 I’m currently learning --> JAVA.
+- 🌱 I’m currently learning --> C++.
 - 📫 You can reach me on linkedin --> https://www.linkedin.com/in/dhruv-goyal-10/
 
 <!---
