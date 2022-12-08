@@ -8,7 +8,7 @@
 - 👀 I'm highly interested in Competitive Programming and Blockchain Development.
 - 👯 I’m looking to collaborate with others having same interest as of mine.
 
-![image](https://github.com/dhruv-goyal-10/Dhruv-Goyal/blob/master/dino.gif)
+![image](dino.gif)
 
 <H3><img src="https://emojis.slackmojis.com/emojis/images/1619739775/34137/me_too.gif?1619739775" align="center" width="28" /> Languages and Tools </h3>
 
