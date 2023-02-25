@@ -1,14 +1,13 @@
 ![Hello](Hello.gif)
 
-<H2>Dhruv Goyal <img src="https://emojis.slackmojis.com/emojis/images/1507582538/3014/technologist.jpg?1507582538" align="center" width="28" /> </h2>
+<H2 align = "center" >Dhruv Goyal <img src="https://emojis.slackmojis.com/emojis/images/1507582538/3014/technologist.jpg?1507582538" align="center" width="28" /> </h2>
 
 ![](https://komarev.com/ghpvc/?username=dhruv-goyal-10&label=PROFILE+VIEWS&color=blue&style=plastic)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dhruv-goyal-10&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dhruv-goyal-10&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> &emsp; <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruv-goyal-10&layout=compact&show_icons=true" />
 
-![Dhruv's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruv-goyal-10&layout=compact&show_icons=true)
 
-<H3><img src="https://emojis.slackmojis.com/emojis/images/1600706728/10521/meow_code.gif?1600706728" align="center" width="28" /> I'm a Sophomore at AKGEC, Ghaziabad! </h3>
+<H3> <img src="https://emojis.slackmojis.com/emojis/images/1600706728/10521/meow_code.gif?1600706728" align="center" width="28" /> I'm a Sophomore at AKGEC, Ghaziabad! </h3>
 
 - 🔭 I’m currently working on Django!
 - 👀 I'm highly interested in Competitive Programming and Blockchain Development.
